@@ -1,7 +1,7 @@
 # torn asyncHttpClient
 
->> pip3 install tornado
->> for ex GET, POST, PUT, DELETE
+# pip3 install tornado
+[ for ex GET, POST, PUT, DELETE ]
 
 >> 'GET'
 
